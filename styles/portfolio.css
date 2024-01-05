@@ -174,3 +174,11 @@ main section{
     margin: 30px;
 }
 
+/* footer style */
+
+footer{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 180px;
+}
+
